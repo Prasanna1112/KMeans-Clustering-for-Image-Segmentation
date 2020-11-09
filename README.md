@@ -28,7 +28,7 @@ Let  X = {x1,x2,x3,……..,xn} be the set of data points and V = {v1,v2,…….
 # Brief:
 
 This code takes in an image, reshapes it, uses KMeans clustering to cluster the datepoints for segmentation, and then reshapes back to an output image.
-Make sure to have the inout image in the same folder as the code.
+Make sure to have the input image in the same folder as the code.
 
 # Usage:
 
